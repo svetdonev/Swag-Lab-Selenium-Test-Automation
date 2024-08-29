@@ -2,7 +2,7 @@
 
 	Scenario: Login with empty credentials
 		Given I am on the login page
-		When I attempt to loggin with empty credentials
+		When I attempt to login with empty credentials
 		Then I should see an error message "Epic sadface: Username is required"
 
 	Scenario: Login with missing password
@@ -17,7 +17,7 @@
 
 	Scenario Outline: Successful login with valid credentials
 		Given I am on the login page
-		When I enter uesrname "<username>" and "<password>"
+		When I enter username "<username>" and password "<password>"
 		And I click the login button
 		Then I should be redirected to the Swag Labs title page
 

@@ -46,12 +46,11 @@ namespace SwagLab_Test_Automation
             loginPage.ClickLoginButton();
         }
 
-        [When(@"I enter uesrname ""(.*)"" and password ""(.*)""")]
+        [When(@"I enter username ""(.*)"" and password ""(.*)""")]
         public void WhenIEnterUsernameAndPassword(string username, string password)
         {
-            loginPage.EnterUsername("locked_out_user");
-            loginPage.EnterPassword("secret_sauce");
-            loginPage.ClickLoginButton();
+            loginPage.EnterUsername(username);
+            loginPage.EnterPassword(password);
         }
 
         [When(@"I click the login button")]
