@@ -12,8 +12,8 @@ namespace SwagLab_Test_Automation
 
         public LoginSteps(ScenarioContext scenarioContext)
         {
-            driver = (IWebDriver)scenarioContext("WebDriver");
-            loginPage = (LoginPage)scenarioContext("LoginPage");
+            driver = (IWebDriver)scenarioContext["WebDriver"];
+            loginPage = (LoginPage)scenarioContext["LoginPage"];
         }
 
         [Given(@"I am on the login page")]
