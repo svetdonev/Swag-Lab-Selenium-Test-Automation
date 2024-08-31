@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|c:\\users\\svetlio\\documents\\github\\swag-lab-selenium-test-automation\\swaglab test automation\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|solutionrelative:loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|c:\\users\\svetlio\\documents\\github\\swag-lab-selenium-test-automation\\swaglab test automation\\drivers\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|solutionrelative:drivers\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|c:\\users\\svetlio\\documents\\github\\swag-lab-selenium-test-automation\\swaglab test automation\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|solutionrelative:features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|c:\\users\\svetlio\\documents\\github\\swag-lab-selenium-test-automation\\swaglab test automation\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1669A7D-9333-4809-AB46-9119199FC8E6}|SwagLab Test Automation.csproj|solutionrelative:loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Loggers\\Logger.cs",
               "RelativeDocumentMoniker": "Loggers\\Logger.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Loggers\\Logger.cs",
               "RelativeToolTip": "Loggers\\Logger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T20:23:26.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Hook.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Hooks\\Hook.cs",
               "RelativeDocumentMoniker": "Hooks\\Hook.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "Hooks\\Hook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:07:32.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:07:32.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.feature",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Features\\Login.feature",
               "RelativeDocumentMoniker": "Features\\Login.feature",
@@ -76,12 +75,11 @@
               "RelativeToolTip": "Features\\Login.feature",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-29T20:46:37.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T20:46:37.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginSteps.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Steps\\LoginSteps.cs",
               "RelativeDocumentMoniker": "Steps\\LoginSteps.cs",
@@ -89,12 +87,11 @@
               "RelativeToolTip": "Steps\\LoginSteps.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:41:34.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T20:41:34.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginPage.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Pages\\LoginPage.cs",
               "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
@@ -102,12 +99,11 @@
               "RelativeToolTip": "Pages\\LoginPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T17:22:15.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T17:22:15.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WebDriverFactory.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Swag-Lab-Selenium-Test-Automation\\SwagLab Test Automation\\Drivers\\WebDriverFactory.cs",
               "RelativeDocumentMoniker": "Drivers\\WebDriverFactory.cs",
