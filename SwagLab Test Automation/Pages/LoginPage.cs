@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace SwagLab_Test_Automation
+namespace SwagLab_Test_Automation.Pages
 {
     public class LoginPage
     {

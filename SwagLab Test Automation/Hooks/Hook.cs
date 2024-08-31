@@ -1,7 +1,9 @@
 ﻿using OpenQA.Selenium;
+using SwagLab_Test_Automation.Drivers;
+using SwagLab_Test_Automation.Pages;
 using TechTalk.SpecFlow;
 
-namespace SwagLab_Test_Automation
+namespace SwagLab_Test_Automation.Hooks
 {
     [Binding]
     public class Hook

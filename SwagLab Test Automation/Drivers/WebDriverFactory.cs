@@ -3,7 +3,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 
-namespace SwagLab_Test_Automation
+namespace SwagLab_Test_Automation.Drivers
 {
     public class WebDriverFactory
     {

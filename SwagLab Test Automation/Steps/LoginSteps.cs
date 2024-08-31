@@ -1,8 +1,9 @@
 ﻿using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 using FluentAssertions;
+using SwagLab_Test_Automation.Pages;
 
-namespace SwagLab_Test_Automation
+namespace SwagLab_Test_Automation.Steps
 {
     [Binding]
     public class LoginSteps
